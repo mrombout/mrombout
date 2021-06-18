@@ -1,4 +1,4 @@
-Hello! I am `Mike Rombout`, and I'm a Software Engineer building microservices at Philips HealthSuite digital platform.
+Hello! I am `Mike Rombout`, and I'm a Software Engineer at [Elastisys](https://github.com/elastisys/) helping customers succeed with Kubernetes!
 
 * ⛅ I'm interested in cloud native and cloud agnostic software solutions.
 * 🐹 And building beautiful software in Go, but I don't mind a bit of ♨️ either.
